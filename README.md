@@ -2,12 +2,12 @@
 
 <a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="t.me/DeCodeSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-![logo](https://telegra.ph/file/824cba85b5b820fcd7dcd.jpg)
+![logo](https://telegra.ph/file/2a27cb8666827154b2c12.jpg)
 
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDeeCode/VcVideoPlayer)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/drlucifer2003/VCSMSMTEST)
 
 
 # Our Credit 🔥
